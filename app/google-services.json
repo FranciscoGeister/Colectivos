@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "93777760916",
+    "firebase_url": "https://colectivos-5bbc7.firebaseio.com",
+    "project_id": "colectivos-5bbc7",
+    "storage_bucket": "colectivos-5bbc7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93777760916:android:ae1ce2af2da1d51f",
+        "android_client_info": {
+          "package_name": "com.geister.colectivos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93777760916-pv4nifrbo45k041s6jv8gs766vn5acji.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.geister.colectivos",
+            "certificate_hash": "67216a13e84e2d5bc37e3f141633d43a9618ba20"
+          }
+        },
+        {
+          "client_id": "93777760916-btuals20tg2opc96ah2a7uf57altgqvn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI4FrNKYnGp3t9Wqx26iAXyOnhyM7zQFY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "93777760916-btuals20tg2opc96ah2a7uf57altgqvn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
